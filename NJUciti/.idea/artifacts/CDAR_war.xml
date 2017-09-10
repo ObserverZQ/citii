@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CDAR:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CDAR.war">
+      <element id="artifact" artifact-name="CDAR:war exploded" />
+    </root>
+  </artifact>
+</component>
