@@ -15,6 +15,7 @@ public class UserPO {
     private Integer id;
     private String account;
     private String password;
+    private String phone;
 
     @Id
     @GeneratedValue
@@ -44,11 +45,20 @@ public class UserPO {
         this.password = password;
     }
 
+    @Column(length = 11)
+    public String getPhone() {
+        return password;
+    }
+
+    public void setPhone(String password) {
+        this.phone = phone;
+    }
     public UserPO() {
     }
 
     public UserPO(UserVO userVO) {
         this.account = userVO.getAccount();
         this.password = userVO.getPassword();
+        this.phone = userVO.getPhone();
     }
 }

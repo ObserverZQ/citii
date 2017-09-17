@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CDAR" />
+        <module name="NJUciti" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CDAR" target="1.8" />
+      <module name="NJUciti" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -52,7 +52,7 @@ label{
     -moz-background-size: 2px;
     -o-background-size: 2px;
     -ms-background-size: 2px;
-    padding: 0em 0 15.4em;
+    padding: 0em 0 21.9em;
 }
 /*--header--*/
 .header-main {
@@ -68,7 +68,7 @@ label{
     position: relative;
 }
 .banner1 {
-    background: url(../images/banner.jpg)no-repeat;
+    /*background: url(../images/banner.jpg)no-repeat;*/
     min-height:41px;
     background-size: cover;
 }
@@ -117,7 +117,7 @@ label{
     color: #fff;
     background-color: #EB4549;
 }
-a.active.scroll {
+a.active {
     color: #2567ff!important;
 	text-shadow: 1px 1px #000;
 }
@@ -592,9 +592,9 @@ h3.agileinfo_sign  {
 .signin-form ::-webkit-input-placeholder{
 	color:#212121 !important;
 }
-.signin-form ::-webkit-textarea-placeholder{
-	color:#212121 !important;
-}
+/*.signin-form ::-webkit-textarea-placeholder{*/
+	/*color:#212121 !important;*/
+/*}*/
 .signin-form textarea {
 	min-height:100px;
 }
@@ -782,7 +782,8 @@ p.para-agileits-w3layouts {
     border: 2px solid #777;
     margin-top: 1em;
     position: relative;
-    width: 32.5%;
+	width: 42.5%;
+	margin-right: 70px;
 }
 .about-grids:nth-child(2) {
 	margin-left:.8em!important;
@@ -1358,7 +1359,7 @@ span.circles-text {
 	#slideshow .slide,
 	#slideshow > button
 	{
-		-webkit-perspective: 1000;
+		/*-webkit-perspective: 1000;*/
 		-webkit-backface-visibility: hidden;
 	}
 

@@ -1,0 +1,15 @@
+.kchart {
+    width: 65%;
+    height: 600px;
+    background-color: floralwhite;
+    float: left;
+    display: inline-block;
+}
+
+.ktable {
+    height: 600px;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    font-size: 13px;
+}

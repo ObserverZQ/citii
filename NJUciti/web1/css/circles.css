@@ -1,4 +1,8 @@
 body { background-color:#ECF0F1;}
+.skill-grids {
+    width: 75%;
+    margin: 0 auto;
+}
 .skills-grid p{
 	margin: 20px 0 0 0;
     color: #ffffff;
@@ -7,8 +11,9 @@ body { background-color:#ECF0F1;}
 }
 .skills-grid {
     float: left;
+    margin-left: 0%;
     margin-right: 0%;
-    width: 25%;
+    width: 30%;
     padding: 0 2.5em;
 }
 .skills-grid:nth-child(3){
