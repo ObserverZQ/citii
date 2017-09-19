@@ -7,335 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03da85fd-0a86-433a-a6c0-9642446f2712" name="Default" comment="update: 可运行UI">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/images/stop.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/images/timg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/NJUciti_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/NJUciti_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NJUciti.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/entityVO/NewsVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/entityVO/OptionVO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/enums/newstype.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/css/button.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/css/docDetail.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/css/hangqing.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/css/taoli.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/css/timeaxis.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/css/timeaxis1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/css/userCenter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/images/cd-icon-location.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/images/cd-icon-movie.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/images/cd-icon-picture.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/SmoothScroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/ajaxfileupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/amazeui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/easyResponsiveTabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/echarts.common.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/echarts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/jarallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/jquery-1.7.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/jquery.fileupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/jquery.iframe-transport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/jquery.jqpagination.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/jquery.knob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/jquery.ui.widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/lightbox-plus-jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/responsiveslides.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/js/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/chicang.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/chicang.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/hangqing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/hangqing.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/news.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/taoli.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/taoli.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/userCenter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web1/views/userCenter.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/CDAR_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/CDAR_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CDAR.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/controller/SearchController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/dao/DocumentDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/daoImpl/DocumentDaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/entityPO/DocumentPO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/entityVO/DocumentVO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/service/AnalysisService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/service/ManageService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/serviceImpl/AnalysisServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/serviceImpl/ManageServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/util/TransferHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/util/XMLAnalyse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/serviceImpl/AnalysisServiceImplTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/serviceImpl/ManageServiceImplTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/util/XMLAnalyseTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/WEB-INF/classes/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/WEB-INF/classes/db.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/WEB-INF/classes/dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/WEB-INF/classes/hibernate.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/adminUI.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/alert.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/amazeui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/analyzeDoc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/button.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/civilCase.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/docDetail.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/jqpagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/lightbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/searchForm.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/searchForm2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/signin_out.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/upload.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/user.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/css/userCenter.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/fonts/MinionPro-BoldCn.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/530236ee38fbf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/bg_1(origin).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/bg_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/close-circle-outline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/closeEye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/court.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/court_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/court_2(origin).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/court_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/f1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/f2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/f3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/g1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/g2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/g3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/g4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/g5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/g55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/g6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/g7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/g9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/login(1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/openEye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/p1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/p2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/p4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/signout(1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/signout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/signup(1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/signup(2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/signup(3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/signup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/t1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/t2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/t3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/t4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/tick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/images/up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/SmoothScroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/ajaxfileupload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/amazeui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/easyResponsiveTabs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/jarallax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/jquery-1.11.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/jquery-1.7.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/jquery.fileupload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/jquery.iframe-transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/jquery.jqpagination.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/jquery.knob.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/jquery.ui.widget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/lightbox-plus-jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/move-top.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/responsiveslides.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/upload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/js/user.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/views/analyzeDoc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/views/analyzeDoc.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/views/civilCase.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/views/civilCase.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/views/docDetail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/views/docDetail.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/views/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/views/userCenter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CDAR/views/userCenter.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/adminUI.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/alert.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/amazeui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/analyzeDoc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/button.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/civilCase.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/docDetail.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/jqpagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/lightbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/searchForm.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/searchForm2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/signin_out.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/upload.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/user.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css/userCenter.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/fonts/MinionPro-BoldCn.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/530236ee38fbf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/bg_1(origin).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/bg_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/close-circle-outline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/closeEye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/court.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/court_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/court_2(origin).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/court_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/f1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/f2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/f3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/g1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/g2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/g3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/g4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/g5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/g55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/g6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/g7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/g9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/login(1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/openEye.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/p1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/p2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/p4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/signout(1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/signout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/signup(1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/signup(2).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/signup(3).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/signup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/t1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/t2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/t3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/t4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/tick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/SmoothScroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/ajaxfileupload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/amazeui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/easyResponsiveTabs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jarallax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery-1.11.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery-1.7.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.fileupload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.iframe-transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.jqpagination.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.knob.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/jquery.ui.widget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/lightbox-plus-jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/move-top.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/responsiveslides.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/upload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/js/user.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/views/analyzeDoc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/views/analyzeDoc.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/views/civilCase.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/views/civilCase.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/views/docDetail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/views/docDetail.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/views/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/views/userCenter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/views/userCenter.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/g1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/g2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/g3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/g4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/g5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/g6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/g7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/g8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/services1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/t1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/t2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/t3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/images/t4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/view/qiquan.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web1/w3layouts-License.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/css/aos.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/css/bootstrap.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/css/circles.css" afterPath="" />
@@ -396,15 +68,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/js/slideshow.min.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/view/qiquan.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/w3layouts-License.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/entityPO/UserPO.java" afterPath="$PROJECT_DIR$/src/main/java/entityPO/UserPO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/entityVO/UserVO.java" afterPath="$PROJECT_DIR$/src/main/java/entityVO/UserVO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web1/css/bootstrap.css" afterPath="$PROJECT_DIR$/web1/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web1/css/circles.css" afterPath="$PROJECT_DIR$/web1/css/circles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web1/css/style.css" afterPath="$PROJECT_DIR$/web1/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -430,7 +94,7 @@
       <file leaf-file-name="hangqing.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web1/views/hangqing.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
+            <state relative-caret-position="1275">
               <caret line="75" column="68" lean-forward="false" selection-start-line="75" selection-start-column="68" selection-end-line="75" selection-end-column="68" />
               <folding />
             </state>
@@ -440,7 +104,7 @@
       <file leaf-file-name="chicang.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web1/views/chicang.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="1258">
               <caret line="74" column="68" lean-forward="false" selection-start-line="74" selection-start-column="68" selection-end-line="74" selection-end-column="68" />
               <folding />
             </state>
@@ -450,7 +114,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web1/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
+            <state relative-caret-position="23154">
               <caret line="1362" column="36" lean-forward="false" selection-start-line="1362" selection-start-column="36" selection-end-line="1362" selection-end-column="36" />
               <folding />
             </state>
@@ -460,7 +124,7 @@
       <file leaf-file-name="echarts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web1/js/echarts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="82365">
               <caret line="4845" column="18" lean-forward="false" selection-start-line="4845" selection-start-column="18" selection-end-line="4845" selection-end-column="18" />
               <folding />
             </state>
@@ -471,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/web1/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="213">
-              <caret line="6410" column="1" lean-forward="true" selection-start-line="6410" selection-start-column="1" selection-end-line="6410" selection-end-column="1" />
+              <caret line="6410" column="1" lean-forward="false" selection-start-line="6410" selection-start-column="1" selection-end-line="6410" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -480,7 +144,7 @@
       <file leaf-file-name="news.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web1/views/news.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="1275">
               <caret line="75" column="59" lean-forward="false" selection-start-line="75" selection-start-column="59" selection-end-line="75" selection-end-column="59" />
               <folding />
             </state>
@@ -510,7 +174,7 @@
       <file leaf-file-name="taoli.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web1/views/taoli.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
+            <state relative-caret-position="1173">
               <caret line="69" column="70" lean-forward="false" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
               <folding />
             </state>
@@ -520,7 +184,7 @@
       <file leaf-file-name="userCenter.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web1/views/userCenter.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="1258">
               <caret line="74" column="74" lean-forward="false" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
               <folding />
             </state>
@@ -690,6 +354,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -741,17 +408,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WineTasters/CDAR" />
@@ -777,8 +441,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Unnamed">
-    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M22" ALTERNATIVE_JRE_ENABLED="false">
+  <component name="RunManager" selected="Tomcat Server.Tomcat9">
+    <configuration name="Tomcat9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M22" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <deployment>
         <artifact name="NJUciti:war exploded">
@@ -1302,7 +966,8 @@
       <workItem from="1505029390706" duration="93501000" />
       <workItem from="1505626614710" duration="374000" />
       <workItem from="1505627076499" duration="573000" />
-      <workItem from="1505638836869" duration="3302000" />
+      <workItem from="1505638836869" duration="4179000" />
+      <workItem from="1505780549998" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="首页增加登录注册按钮">
       <created>1500220615626</created>
@@ -1598,11 +1263,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501147097975</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="update: 可运行UI">
+      <created>1505646500008</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1505646500008</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210043000" />
+    <option name="totallyTimeSpent" value="211064000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1617,7 +1289,7 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15978836" sideWeight="0.509375" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32142857" sideWeight="0.509375" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1628,17 +1300,17 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32878152" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32878152" sideWeight="0.49322918" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32142857" sideWeight="0.49270833" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32142857" sideWeight="0.490625" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12920168" sideWeight="0.490625" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -1823,13 +1495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="48" column="25" lean-forward="false" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web1/index.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/entityVO/NewsVO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1873,7 +1539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="45" column="44" lean-forward="false" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1888,7 +1553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
           <caret line="340" column="21" lean-forward="false" selection-start-line="340" selection-start-column="21" selection-end-line="340" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1904,13 +1568,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="68" column="69" lean-forward="false" selection-start-line="68" selection-start-column="69" selection-end-line="68" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web1/views/hangqing.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
+        <state relative-caret-position="1275">
           <caret line="75" column="68" lean-forward="false" selection-start-line="75" selection-start-column="68" selection-end-line="75" selection-end-column="68" />
           <folding />
         </state>
@@ -1918,7 +1581,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web1/views/chicang.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="1258">
           <caret line="74" column="68" lean-forward="false" selection-start-line="74" selection-start-column="68" selection-end-line="74" selection-end-column="68" />
           <folding />
         </state>
@@ -1926,7 +1589,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web1/views/taoli.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="1173">
           <caret line="69" column="70" lean-forward="false" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
           <folding />
         </state>
@@ -1934,7 +1597,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web1/views/userCenter.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="1258">
           <caret line="74" column="74" lean-forward="false" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
           <folding />
         </state>
@@ -1942,7 +1605,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web1/views/news.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="1275">
           <caret line="75" column="59" lean-forward="false" selection-start-line="75" selection-start-column="59" selection-end-line="75" selection-end-column="59" />
           <folding />
         </state>
@@ -1966,7 +1629,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web1/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
+        <state relative-caret-position="23154">
           <caret line="1362" column="36" lean-forward="false" selection-start-line="1362" selection-start-column="36" selection-end-line="1362" selection-end-column="36" />
           <folding />
         </state>
@@ -1974,7 +1637,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web1/js/echarts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="82365">
           <caret line="4845" column="18" lean-forward="false" selection-start-line="4845" selection-start-column="18" selection-end-line="4845" selection-end-column="18" />
           <folding />
         </state>
@@ -1983,7 +1646,7 @@
     <entry file="file://$PROJECT_DIR$/web1/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
-          <caret line="6410" column="1" lean-forward="true" selection-start-line="6410" selection-start-column="1" selection-end-line="6410" selection-end-column="1" />
+          <caret line="6410" column="1" lean-forward="false" selection-start-line="6410" selection-start-column="1" selection-end-line="6410" selection-end-column="1" />
           <folding />
         </state>
       </provider>
