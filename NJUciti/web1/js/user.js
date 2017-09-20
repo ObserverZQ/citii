@@ -5,7 +5,9 @@ var pathName = document.location.pathname;
 var index = pathName.substr(1).indexOf("/");
 var result = pathName.substr(0,index+1);
 
-function log() {
+
+//登录
+function Login() {
     var username = $('#logInUsername').val();
     var password = $('#logInPassword').val();
     // alert(username);
@@ -15,7 +17,7 @@ function log() {
         return;
     }
     $.ajax({
-        url: "/CDAR/userAction/userLogin",
+        url: "userAction/userLogin",
         type: "POST",
         dataType: "json",
         data: {
@@ -48,7 +50,8 @@ function log() {
     });
 }
 
-function signIn() {
+//注册
+function signUp() {
     var username = $('#signInUsername').val();
     var password = "";
     if ($('#signInPassword').css("display") == "inline-block") {
