@@ -7,8 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03da85fd-0a86-433a-a6c0-9642446f2712" name="Default" comment="update: 可运行UI">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/48eba56e-0ef7-4ec8-8a02-76c35a17cccf.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/css/aos.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/css/bootstrap.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/css/circles.css" afterPath="" />
@@ -70,7 +68,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/view/qiquan.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../ui/w3layouts-License.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/db.properties" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -954,7 +951,7 @@
       <workItem from="1505780549998" duration="196000" />
       <workItem from="1505899819062" duration="26000" />
       <workItem from="1505900028077" duration="285000" />
-      <workItem from="1505900628904" duration="475000" />
+      <workItem from="1505900628904" duration="838000" />
     </task>
     <task id="LOCAL-00001" summary="首页增加登录注册按钮">
       <created>1500220615626</created>
@@ -1264,11 +1261,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505780729948</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="update: idea配置数据库">
+      <created>1505901184387</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1505901184387</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211902000" />
+    <option name="totallyTimeSpent" value="212265000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1328,7 +1332,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="更名：文书详情UI" />
     <MESSAGE value="add：查询类案模块，上传文件UI待设置" />
     <MESSAGE value="add：查询类案上传文件UI，plan：点击确认后打开新窗口，显示docDetail" />
     <MESSAGE value="fix：修改docDetail样式" />
@@ -1353,7 +1356,8 @@
     <MESSAGE value="fix: 修改背景图片尺寸" />
     <MESSAGE value="update: 可运行UI" />
     <MESSAGE value="update: 可运行UI，功能待开始" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: 可运行UI，功能待开始" />
+    <MESSAGE value="update: idea配置数据库" />
+    <option name="LAST_COMMIT_MESSAGE" value="update: idea配置数据库" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
