@@ -8093,11 +8093,11 @@ return /******/ (function(modules) { // webpackBootstrap
 	     * @example
 	     *     graphic.updateProps(el, {
 	     *         position: [100, 100]
-	     *     }, seriesModel, dataIndex, function () { console.Login('Animation done!'); });
+	     *     }, seriesModel, dataIndex, function () { console.log('Animation done!'); });
 	     *     // Or
 	     *     graphic.updateProps(el, {
 	     *         position: [100, 100]
-	     *     }, seriesModel, function () { console.Login('Animation done!'); });
+	     *     }, seriesModel, function () { console.log('Animation done!'); });
 	     */
 	    graphic.updateProps = function (el, props, animatableModel, dataIndex, cb) {
 	        animateOrSetProps(true, el, props, animatableModel, dataIndex, cb);
@@ -13251,7 +13251,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        var config = __webpack_require__(37);
 
 	        /**
-	         * @exports zrender/tool/Login
+	         * @exports zrender/tool/log
 	         * @author Kener (@Kener-林峰, kener.linfeng@gmail.com)
 	         */
 	        module.exports = function() {
@@ -14497,7 +14497,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            out[0] = cubicAt(x0, x1, x2, x3, t);
 	            out[1] = cubicAt(y0, y1, y2, y3, t);
 	        }
-	        // console.Login(interval, i);
+	        // console.log(interval, i);
 	        return mathSqrt(d);
 	    }
 
@@ -14691,7 +14691,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            out[0] = quadraticAt(x0, x1, x2, t);
 	            out[1] = quadraticAt(y0, y1, y2, t);
 	        }
-	        // console.Login(interval, i);
+	        // console.log(interval, i);
 	        return mathSqrt(d);
 	    }
 
@@ -20119,9 +20119,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	            this._needsRefresh = false;
 	            // var end = new Date();
 
-	            // var Login = document.getElementById('Login');
-	            // if (Login) {
-	            //     Login.innerHTML = Login.innerHTML + '<br>' + (end - start);
+	            // var log = document.getElementById('log');
+	            // if (log) {
+	            //     log.innerHTML = log.innerHTML + '<br>' + (end - start);
 	            // }
 	        },
 
@@ -25872,7 +25872,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        var fixMax = model.getMax() != null;
 	        var splitNumber = model.get('splitNumber');
 
-	        if (scale.type === 'Login') {
+	        if (scale.type === 'log') {
 	            scale.base = model.get('logBase');
 	        }
 
@@ -25915,7 +25915,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	                    );
 	                case 'value':
 	                    return new IntervalScale();
-	                // Extended scale, like time and Login
+	                // Extended scale, like time and log
 	                default:
 	                    return (Scale.getClass(axisType) || IntervalScale).create(model);
 	            }
@@ -26219,7 +26219,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        var extent = this._extent;
 	        other[0] < extent[0] && (extent[0] = other[0]);
 	        other[1] > extent[1] && (extent[1] = other[1]);
-	        // not setExtent because in Login axis it may transformed to power
+	        // not setExtent because in log axis it may transformed to power
 	        // this.setExtent(extent[0], extent[1]);
 	    };
 
@@ -26844,7 +26844,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	    var LogScale = Scale.extend({
 
-	        type: 'Login',
+	        type: 'log',
 
 	        base: 10,
 
@@ -30989,7 +30989,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	         *  - 'category'
 	         *  - 'value'
 	         *  - 'time'
-	         *  - 'Login'
+	         *  - 'log'
 	         * @type {string}
 	         */
 	        this.type = axisType || 'value';
@@ -31229,7 +31229,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    var layout = __webpack_require__(74);
 
 	    // FIXME axisType is fixed ?
-	    var AXIS_TYPES = ['value', 'category', 'time', 'Login'];
+	    var AXIS_TYPES = ['value', 'category', 'time', 'log'];
 
 	    /**
 	     * Generate sub axis model class
@@ -32611,7 +32611,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        );
 
 	        // category axis do not auto snap, otherwise some tick that do not
-	        // has value can not be hovered. value/time/Login axis default snap if
+	        // has value can not be hovered. value/time/log axis default snap if
 	        // triggered from tooltip and trigger tooltip.
 	        volatileOption.snap = axis.type !== 'category' && !!triggerTooltip;
 
@@ -35462,7 +35462,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	         *  - 'category'
 	         *  - 'value'
 	         *  - 'time'
-	         *  - 'Login'
+	         *  - 'log'
 	         * @type {string}
 	         */
 	        this.type = 'value';
@@ -47367,7 +47367,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	         *  - 'category'
 	         *  - 'value'
 	         *  - 'time'
-	         *  - 'Login'
+	         *  - 'log'
 	         * @type {string}
 	         */
 	        this.type = axisType || 'value';
@@ -54589,7 +54589,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	         * - 'category'
 	         * - 'value'
 	         * - 'time'
-	         * - 'Login'
+	         * - 'log'
 	         * @type {string}
 	         */
 	        this.type = axisType || 'value';
@@ -58218,7 +58218,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    var zrUtil = __webpack_require__(4);
 
 	    function dataToCoordSize(dataSize, dataItem) {
-	        // dataItem is necessary in Login axis.
+	        // dataItem is necessary in log axis.
 	        dataItem = dataItem || [0, 0];
 	        return zrUtil.map(['x', 'y'], function (dim, dimIdx) {
 	            var axis = this.getAxis(dim);
@@ -58302,7 +58302,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    var zrUtil = __webpack_require__(4);
 
 	    function dataToCoordSize(dataSize, dataItem) {
-	        // dataItem is necessary in Login axis.
+	        // dataItem is necessary in log axis.
 	        var axis = this.getAxis();
 	        var val = dataItem instanceof Array ? dataItem[0] : dataItem;
 	        var halfSize = (dataSize instanceof Array ? dataSize[0] : dataSize) / 2;
@@ -58341,7 +58341,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    var zrUtil = __webpack_require__(4);
 
 	    function dataToCoordSize(dataSize, dataItem) {
-	        // dataItem is necessary in Login axis.
+	        // dataItem is necessary in log axis.
 	        return zrUtil.map(['Radius', 'Angle'], function (dim, dimIdx) {
 	            var axis = this['get' + dim + 'Axis']();
 	            var val = dataItem[dimIdx];
@@ -61891,7 +61891,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	         *  - 'category'
 	         *  - 'value'
 	         *  - 'time'
-	         *  - 'Login'
+	         *  - 'log'
 	         * @type {string}
 	         */
 	        this.type = 'category';
@@ -61939,7 +61939,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	         *  - 'category'
 	         *  - 'value'
 	         *  - 'time'
-	         *  - 'Login'
+	         *  - 'log'
 	         * @type {string}
 	         */
 	        this.type = 'category';
@@ -69030,7 +69030,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	                }
 	            });
 
-	            // console.Login(JSON.stringify(visualMetaList.map(a => a.stops)));
+	            // console.log(JSON.stringify(visualMetaList.map(a => a.stops)));
 	            seriesModel.getData().setVisual('visualMeta', visualMetaList);
 	        });
 	    }
@@ -74447,7 +74447,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	         *  - 'category'
 	         *  - 'value'
 	         *  - 'time'
-	         *  - 'Login'
+	         *  - 'log'
 	         * @type {string}
 	         */
 	        this.type = axisType || 'value';
