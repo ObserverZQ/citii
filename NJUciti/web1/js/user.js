@@ -43,30 +43,30 @@ function Login() {
         },
         error: function (XMLHttpRequest, textStatus, errorThrown) {
             fail_alert("登陆失败");
-            // alert(XMLHttpRequest.status);
-            // alert(XMLHttpRequest.readyState);
-            // alert(textStatus);
+            alert(XMLHttpRequest.status);
+            alert(XMLHttpRequest.readyState);
+            alert(textStatus);
         }
     });
 }
 
 //注册
 function signUp() {
-    var username = $('#signInUsername').val();
-    var password = "";
-    if ($('#signInPassword').css("display") == "inline-block") {
-        password = $('#signInPassword').val();
-    }
-    else if ($('#signInText').css("display") == "inline-block") {
-        password = $('#signInText').val();
-    }
-    if (username == "" || password == "") {
+    var username = $('#signUpUsername').val();
+    var phone = $('#signUpPhone').val();
+    var password = $('#signUpPassword').val();
+    var confirmpassword = $('#signUpConfirmPassword').val();
+    if (username == "" || phone == "" || password == "" || confirmpassword == "") {
         fail_alert("请输入完整信息");
+        return;
+    }
+    if(password!=confirmpassword) {
+        fail_alert("两次输入的密码不一致");
         return;
     }
 
     $.ajax({
-        url: "/CDAR/userAction/userSignUp",
+        url: "userAction/userSignUp",
         type: "POST",
         dataType: "json",
         data: {

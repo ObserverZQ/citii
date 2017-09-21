@@ -153,8 +153,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <h3 class="agileinfo_sign">Login</h3>
                     <div class="login-form">
                         <form action="#" method="post">
-                            <input type="email" name="email" placeholder="用户名" required="">
-                            <input type="password" name="password" placeholder="密码" required="">
+                            <input id="logInUsername" type="text" name="text" placeholder="用户名" required="">
+                            <input id="logInPassword" type="password" name="password" placeholder="密码" required="">
                             <div class="tp">
                                 <input type="submit" value="登录">
                             </div>
@@ -186,10 +186,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <h3 class="agileinfo_sign">Register</h3>
                     <div class="login-form">
                         <form action="#" method="post">
-                            <input type="text" name="name" placeholder="用户名" required="">
-                            <input type="email" name="email" placeholder="手机号码" required="">
-                            <input type="password" name="password" placeholder="密码" required="">
-                            <input type="password" name="password" placeholder="确认密码" required="">
+                            <input id="signUpUsername" type="text" name="name" placeholder="用户名" required="">
+                            <input id="signUpPhone" type="text" name="email" placeholder="手机号码" required="">
+                            <input id="signUpPassword" type="password" name="password" placeholder="密码" required="">
+                            <input id="signUpConfirmPassword" type="password" name="password" placeholder="确认密码" required="">
                             <input type="submit" value="注册">
                         </form>
                     </div>
