@@ -33,6 +33,12 @@
         <property name="configLocation" value="classpath:hibernate.cfg.xml"/>
         <!-- 自动扫描实体对象（annotation）-->
         <property name="packagesToScan" value="entityPO" />
+        <property name="hibernateProperties">
+            <props>
+                <prop key="hibernate.connection.url"><![CDATA[jdbc:mysql://47.95.9.89/citi?useUnicode=true&amp;characterEncoding=utf-8]]></prop>
+                <prop key="hibernate.connection.driver_class">com.mysql.jdbc.Driver</prop>
+            </props>
+        </property>
 
     </bean>
 

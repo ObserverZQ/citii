@@ -112,6 +112,7 @@
     <column id="37" parent="10" name="trade_ID">
       <Position>1</Position>
       <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
     </column>
     <column id="38" parent="10" name="user_ID">
       <Position>2</Position>
@@ -149,165 +150,170 @@
       <Position>10</Position>
       <DataType>enum(&apos;&apos;)|0</DataType>
     </column>
-    <column id="47" parent="11" name="id">
+    <key id="47" parent="10" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>trade_ID</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="48" parent="11" name="id">
       <Position>1</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="48" parent="11" name="type">
+    <column id="49" parent="11" name="type">
       <Position>2</Position>
       <DataType>enum(&apos;&apos;)|0</DataType>
     </column>
-    <column id="49" parent="11" name="time">
+    <column id="50" parent="11" name="time">
       <Position>3</Position>
       <DataType>datetime|0</DataType>
     </column>
-    <column id="50" parent="11" name="title">
+    <column id="51" parent="11" name="title">
       <Position>4</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="51" parent="11" name="url">
+    <column id="52" parent="11" name="url">
       <Position>5</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="52" parent="11" name="summary">
+    <column id="53" parent="11" name="summary">
       <Position>6</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="53" parent="12" name="time">
+    <column id="54" parent="12" name="time">
       <Position>1</Position>
       <DataType>datetime|0</DataType>
       <NotNull>1</NotNull>
     </column>
-    <column id="54" parent="12" name="id">
+    <column id="55" parent="12" name="id">
       <Position>2</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
     </column>
-    <column id="55" parent="12" name="purchase_ammount">
+    <column id="56" parent="12" name="purchase_ammount">
       <Position>3</Position>
       <DataType>int(11)|0</DataType>
     </column>
-    <column id="56" parent="12" name="purchase_price">
+    <column id="57" parent="12" name="purchase_price">
       <Position>4</Position>
       <DataType>float(10,2)|0</DataType>
     </column>
-    <column id="57" parent="12" name="current_price">
+    <column id="58" parent="12" name="current_price">
       <Position>5</Position>
       <DataType>float(10,2)|0</DataType>
     </column>
-    <column id="58" parent="12" name="sell_price">
+    <column id="59" parent="12" name="sell_price">
       <Position>6</Position>
       <DataType>float(10,2)|0</DataType>
     </column>
-    <column id="59" parent="12" name="sell_ammount">
+    <column id="60" parent="12" name="sell_ammount">
       <Position>7</Position>
       <DataType>int(11)|0</DataType>
     </column>
-    <column id="60" parent="12" name="positions">
+    <column id="61" parent="12" name="positions">
       <Position>8</Position>
       <DataType>int(11)|0</DataType>
     </column>
-    <column id="61" parent="12" name="amplitude">
+    <column id="62" parent="12" name="amplitude">
       <Position>9</Position>
       <DataType>float|0</DataType>
     </column>
-    <column id="62" parent="12" name="quote_change">
+    <column id="63" parent="12" name="quote_change">
       <Position>10</Position>
       <DataType>float|0</DataType>
     </column>
-    <column id="63" parent="13" name="id">
+    <column id="64" parent="13" name="id">
       <Position>1</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
     </column>
-    <column id="64" parent="13" name="type">
+    <column id="65" parent="13" name="type">
       <Position>2</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="65" parent="13" name="time">
+    <column id="66" parent="13" name="time">
       <Position>3</Position>
       <DataType>datetime|0</DataType>
     </column>
-    <column id="66" parent="13" name="title">
+    <column id="67" parent="13" name="title">
       <Position>4</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="67" parent="13" name="url">
+    <column id="68" parent="13" name="url">
       <Position>5</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="68" parent="13" name="summary">
+    <column id="69" parent="13" name="summary">
       <Position>6</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <key id="69" parent="13" name="PRIMARY">
+    <key id="70" parent="13" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="70" parent="14" name="id">
+    <column id="71" parent="14" name="id">
       <Position>1</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
     </column>
-    <column id="71" parent="14" name="user_id">
+    <column id="72" parent="14" name="user_id">
       <Position>2</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="72" parent="14" name="title">
+    <column id="73" parent="14" name="title">
       <Position>3</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="73" parent="14" name="condition">
+    <column id="74" parent="14" name="condition">
       <Position>4</Position>
       <DataType>enum(&apos;Read&apos;, &apos;Unread&apos;)|0</DataType>
     </column>
-    <column id="74" parent="14" name="content">
+    <column id="75" parent="14" name="content">
       <Position>5</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="75" parent="14" name="time">
+    <column id="76" parent="14" name="time">
       <Position>6</Position>
       <DataType>datetime|0</DataType>
     </column>
-    <key id="76" parent="14" name="PRIMARY">
+    <key id="77" parent="14" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="77" parent="15" name="user_ID">
+    <column id="78" parent="15" name="user_ID">
       <Position>1</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
     </column>
-    <column id="78" parent="15" name="username">
+    <column id="79" parent="15" name="username">
       <Position>2</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
     </column>
-    <column id="79" parent="15" name="password">
+    <column id="80" parent="15" name="password">
       <Position>3</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
     </column>
-    <column id="80" parent="15" name="phone_number">
+    <column id="81" parent="15" name="phone_number">
       <Position>4</Position>
       <DataType>varchar(255)|0</DataType>
       <NotNull>1</NotNull>
     </column>
-    <column id="81" parent="15" name="stop_profit_point">
+    <column id="82" parent="15" name="stop_profit_point">
       <Position>5</Position>
       <DataType>float|0</DataType>
     </column>
-    <column id="82" parent="15" name="stop_loss_point">
+    <column id="83" parent="15" name="stop_loss_point">
       <Position>6</Position>
       <DataType>float|0</DataType>
     </column>
-    <column id="83" parent="15" name="max_security_deposit">
+    <column id="84" parent="15" name="max_security_deposit">
       <Position>7</Position>
       <DataType>int(11)|0</DataType>
     </column>
-    <key id="84" parent="15" name="PRIMARY">
+    <key id="85" parent="15" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>user_ID</ColNames>
       <Primary>1</Primary>
