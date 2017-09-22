@@ -293,8 +293,7 @@
     </column>
     <key id="81" parent="15" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
-      <ColNames>user_ID
-username</ColNames>
+      <ColNames>user_ID</ColNames>
       <Primary>1</Primary>
     </key>
   </database-model>
